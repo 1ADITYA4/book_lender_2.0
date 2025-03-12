@@ -1,0 +1,6 @@
+chatapp for room meeting
+https://getstream.io/video/ for video audio
+stripe for money
+clerk auth
+gemini api key for chatbot
+separate page for blog in which pepole tell about there experience with book
